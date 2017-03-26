@@ -130,7 +130,7 @@ source ~/.bashrc
 
 5. Install Matlab R2015b
 
-download Matlab R2015b
+download Matlab R2015b from https://pan.baidu.com/s/1gf9IeCN, password: 4gj3
 
 sudo mkdir /media/matlab
 
